@@ -1,14 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge:
-  - star
-  - fork
-  - follow
+title: Using React with Ionic v4
+subtitle: In this tutorial, you'll learn to use React with Ionic v4
 tags:
-  - test
+  - ionic
+  - react
 published: true
 ---
 Ionic is now framework agnostic which means you can use it with your prefered front-end framework or libray such as React or Vue etc.
