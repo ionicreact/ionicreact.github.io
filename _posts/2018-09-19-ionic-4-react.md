@@ -7,7 +7,7 @@ tags:
   - react
 published: true
 ---
-Ionic is now framework agnostic which means you can use it with your prefered front-end framework or libray such as React or Vue etc.
+Ionic is now framework agnostic which means you can use it with your preferred front-end framework or library such as React or Vue etc.
 
 As of this writing, the Ionic CLI v4 does only support generating Ionic 4 projects with Angular. In this tutorial, we'll learn how to use React instead of Angular.
 
@@ -128,7 +128,7 @@ Let's start by changing the `index.html` file. This is the initial content of th
 </html>
 ```
 
-We can safly remove the `<ion-app>` tag because this is an Angular component. We can also remove the the `<script>` tags because they are related to Angular. And let's import the Ionic v4 core library and add a root `<div>` where our React application will be mounted:
+We can safely remove the `<ion-app>` tag because this is an Angular component. We can also remove the the `<script>` tags because they are related to Angular. And let's import the Ionic v4 core library and add a root `<div>` where our React application will be mounted:
 
 
 ```html
